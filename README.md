@@ -13,6 +13,6 @@ A tool designed for security researchers to enumerate subdomain  discovery .
 ```bash
 git clone https://github.com/MJ-sec4yoU/subdomain_enum.git
 cd subdomain_enum
-chmod +x subdomain_enum
-./subdomain_enum -d example.com -o results.txt
+chmod +x subdomain_enum.sh
+./subdomain_enum.sh -d example.com -o results.txt
 
